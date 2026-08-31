@@ -31,6 +31,7 @@ export default function App() {
     <div>
       <header>
         <h1>TaskMan</h1>
+        <h2>Thank you</h2>
         <p><i>Your friendly Task Manager</i></p>
       </header>
 
